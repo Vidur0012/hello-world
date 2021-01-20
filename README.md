@@ -1,5 +1,5 @@
 # hello-world
-Hello world repository.
+Hello repository.
 
 This is to learn about github.
 readme-edits
